@@ -16,4 +16,14 @@ main {
     display: grid;
     padding: 8px 5px;
     grid-template-columns: 1fr 1fr;
+    grid-row-gap: 16px;
+    grid-column-gap: 10px;
+}
+main > a {
+    border: .5px solid rgb(57,181,74);
+    border-radius: 11px;
+    padding: 20px;
+    text-align: center; 
+    box-shadow: 1px 1px 17px -6px #000000;
+    background-color: rgb(57,181,74);
 }

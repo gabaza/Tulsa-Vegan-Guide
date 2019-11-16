@@ -10,7 +10,7 @@ header > img {
     position: absolute;
     right: 0;
     left: 0;
-    margin: auto auto;
+    margin: 10px auto;
 }
 main {
     display: grid;
@@ -26,7 +26,7 @@ main > a {
     padding: 20px;
     text-align: center; 
     box-shadow: 1px 1px 17px -6px #000000;
-    background-color: rgb(57,181,74);
+    background-color: rgb(0,146,69);
     text-decoration: none;
     color: whitesmoke;
     height: 110px;
@@ -39,4 +39,12 @@ main > a {
 }
 main > a:nth-child(even) {
     background: rgb(0,146,69);
-  }
+}
+footer {
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+footer > p > a {
+    text-decoration: none;
+    color: rgb(0,146,69);
+}

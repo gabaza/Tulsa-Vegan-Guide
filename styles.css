@@ -26,4 +26,9 @@ main > a {
     text-align: center; 
     box-shadow: 1px 1px 17px -6px #000000;
     background-color: rgb(57,181,74);
+    text-decoration: none;
+    color: whitesmoke;
+    height: 110px;
+    width: 110px;
+    margin: auto;
 }

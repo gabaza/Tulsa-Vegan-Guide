@@ -52,7 +52,7 @@ footer {
 }
 footer > p > a {
     text-decoration: none;
-    color: rgb(0,146,69);
+    color: whitesmoke;
 }
 .drive-thru {
     font-family: 'Bebas Neue', cursive;

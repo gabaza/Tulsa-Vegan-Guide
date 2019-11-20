@@ -44,9 +44,9 @@ main > a {
     justify-content: center;
     align-items: center;
 }
-/* main > a:nth-child(even) {
-    background-image: linear-gradient(to bottom right, purple, green);
-} */
+main > a:hover {
+    background-image: linear-gradient(to bottom, #343434, black);
+}
 footer {
     text-align: center;
     font-family: 'Bebas Neue', cursive;
@@ -83,6 +83,9 @@ footer > p > a {
     justify-content: center;
     align-items: center;
 }
+.drive-thru > div > a:hover {
+    background-image: linear-gradient(to bottom, #343434, black);
+}
 .drive-thru > a {
     border-radius: 11px;
     padding: 20px;
@@ -98,5 +101,8 @@ footer > p > a {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.drive-thru > a:hover {
+    background-image: linear-gradient(to bottom, #343434, black);
 }
 

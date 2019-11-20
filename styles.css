@@ -1,8 +1,10 @@
 /* Mobile Version */
 body {
-    background-image: url("wood-bg.png");
+    background-color: black;
+    background-image: url("tulsa-vegan-black-bg01.png");
     background-repeat: no-repeat;
     background-size: cover;
+    
 }
 header {
     /* background-color: white; */
@@ -27,12 +29,11 @@ main {
     font-family: 'Bebas Neue', cursive;
 }
 main > a {
-    border: .5px solid rgb(57,181,74);
     border-radius: 11px;
     padding: 20px;
     text-align: center; 
     box-shadow: 1px 1px 17px -6px #000000;
-    background-color: rgb(0,146,69);
+    background-image: linear-gradient(to bottom, red, blue);
     text-decoration: none;
     color: whitesmoke;
     height: 110px;
@@ -43,9 +44,9 @@ main > a {
     justify-content: center;
     align-items: center;
 }
-main > a:nth-child(even) {
-    background: rgb(0,146,69);
-}
+/* main > a:nth-child(even) {
+    background-image: linear-gradient(to bottom right, purple, green);
+} */
 footer {
     text-align: center;
     font-family: 'Bebas Neue', cursive;
@@ -66,12 +67,11 @@ footer > p > a {
     grid-column-gap: 10px;
 }
 .drive-thru > div > a {
-    border: .5px solid rgb(57,181,74);
+    background-image: linear-gradient(to bottom, red, blue);
     border-radius: 11px;
     padding: 20px;
     text-align: center; 
     box-shadow: 1px 1px 17px -6px #000000;
-    background-color: rgb(0,146,69);
     text-decoration: none;
     color: whitesmoke;
     height: 110px;
@@ -83,12 +83,11 @@ footer > p > a {
     align-items: center;
 }
 .drive-thru > a {
-    border: .5px solid rgb(57,181,74);
     border-radius: 11px;
     padding: 20px;
     text-align: center; 
     box-shadow: 1px 1px 17px -6px #000000;
-    background-color: rgb(0,146,69);
+    background-image: linear-gradient(to bottom, red, blue);
     text-decoration: none;
     color: whitesmoke;
     height: 40px;

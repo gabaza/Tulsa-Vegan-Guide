@@ -68,7 +68,7 @@ footer > p > a {
     grid-column-gap: 10px;
 }
 .drive-thru > div > a {
-    background-image: linear-gradient(to bottom, red, blue);
+    background-image: linear-gradient(to bottom, #cafe48, black);
     border-radius: 11px;
     padding: 20px;
     text-align: center; 
@@ -88,7 +88,7 @@ footer > p > a {
     padding: 20px;
     text-align: center; 
     box-shadow: 1px 1px 17px -6px #000000;
-    background-image: linear-gradient(to bottom, red, blue);
+    background-image: linear-gradient(to bottom, #cafe48, black);
     text-decoration: none;
     color: whitesmoke;
     height: 40px;

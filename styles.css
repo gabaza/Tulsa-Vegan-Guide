@@ -33,7 +33,7 @@ main > a {
     padding: 20px;
     text-align: center; 
     box-shadow: 1px 1px 17px -6px #000000;
-    background-image: linear-gradient(to bottom, red, blue);
+    background-image: linear-gradient(to bottom, #cafe48, black);
     text-decoration: none;
     color: whitesmoke;
     height: 110px;

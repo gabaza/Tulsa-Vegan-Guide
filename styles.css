@@ -58,6 +58,7 @@ footer > p > a {
 .drive-thru {
     font-family: 'Bebas Neue', cursive;
     text-align: center;
+    color: whitesmoke;
 }
 .drive-thru > div {
     display: grid;

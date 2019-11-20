@@ -82,6 +82,7 @@ footer > p > a {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 .drive-thru > div > a:hover {
     background-image: linear-gradient(to bottom, #343434, black);
@@ -101,8 +102,13 @@ footer > p > a {
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 .drive-thru > a:hover {
     background-image: linear-gradient(to bottom, #343434, black);
 }
-
+.drive-thru > div > a > span {
+    /* color: #c7d6d5; */
+    color: whitesmoke;
+    font-size: .65em;
+}

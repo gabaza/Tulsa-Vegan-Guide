@@ -120,7 +120,7 @@ footer > p > a {
     font-size: 1.2em;
     
 }
-.menu-item {
+.menu-item > p {
     border: 2px solid #cafe48;
     border-radius: 11px;
     width: 50%;
@@ -132,4 +132,11 @@ footer > p > a {
 }
 .mods-spam {
     text-decoration: underline;
+}
+.number {
+    background-image: linear-gradient(to bottom, #cafe48, black);
+    border-radius: 50%;
+    padding: 15px;
+    font-size: 1.2em;
+    color: whitesmoke;
 }

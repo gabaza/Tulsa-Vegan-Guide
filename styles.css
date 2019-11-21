@@ -112,3 +112,24 @@ footer > p > a {
     color: whitesmoke;
     font-size: .65em;
 }
+
+/* restaurant show pages */
+.drive-thru > section {
+    display: gird;
+    grid-template-columns: 1fr;
+    font-size: 1.2em;
+    
+}
+.menu-item {
+    border: 2px solid #cafe48;
+    border-radius: 11px;
+    width: 50%;
+    height: 100px;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: #0c120c;
+    letter-spacing: 1px;
+}
+.mods-spam {
+    text-decoration: underline;
+}

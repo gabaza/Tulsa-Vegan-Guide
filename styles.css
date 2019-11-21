@@ -136,7 +136,7 @@ footer > p > a {
 .number {
     background-image: linear-gradient(to bottom, #cafe48, black);
     border-radius: 50%;
-    padding: 15px;
-    font-size: 1.2em;
+    padding: 8px;
+    font-size: 1.1em;
     color: whitesmoke;
 }

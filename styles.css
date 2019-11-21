@@ -140,3 +140,22 @@ footer > p > a {
     font-size: 1.1em;
     color: whitesmoke;
 }
+
+.rest-item {
+    border: 2px solid #cafe48;
+    border-radius: 11px;
+    width: 50%;
+    height: auto;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: #0c120c;
+    letter-spacing: 1px;
+}
+.rest-item > a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+#button {
+    background-image: linear-gradient(to bottom, #cafe48, black);
+    border: none;
+}

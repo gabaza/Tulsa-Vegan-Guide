@@ -124,7 +124,7 @@ footer > p > a {
     border: 2px solid #cafe48;
     border-radius: 11px;
     width: 50%;
-    height: 100px;
+    height: auto;
     margin: 10px auto;
     padding: 10px;
     background-color: #0c120c;
